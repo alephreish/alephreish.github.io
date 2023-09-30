@@ -28,6 +28,11 @@ theme: minima
 plugins:
   - jekyll-feed
 
+header_pages:
+  - publications.md
+  - yiddish-resources.md
+  - critical-reading.md
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+This is a stump for my home page.
