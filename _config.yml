@@ -27,11 +27,15 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jemoji
+
+include: ['_pages']
 
 header_pages:
-  - publications.md
-  - yiddish-resources.md
-  - critical-reading.md
+  - _pages/publications.md
+  - _pages/yiddish-resources.md
+  - _pages/critical-reading.md
+  - _pages/about.md
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
