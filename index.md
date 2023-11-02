@@ -5,4 +5,4 @@
 layout: home
 ---
 
-This is a stump for my home page.
+![sea](/assets/images/sea.jpeg)
